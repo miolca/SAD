@@ -1,5 +1,5 @@
 # SAD
-Visita:   https://enriqueiborra.github.io/SAD/
+
 
 En FP - CFGS - ASIR Módulo: 0378 - **Seguridad y Alta Disponibilidad**.
 
